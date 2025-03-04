@@ -1,6 +1,8 @@
 # Olá 👋, eu me chamo Ana Jéssica
 ## Seja muito bem vindo ao meu perfil GitHub 😊
 
+<div class="tenor-gif-embed" data-postid="27203346" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/the-super-mario-bros-movie-trailer-mario-game-platform-gif-27203346">The Super Mario Bros Movie Trailer GIF</a>from <a href="https://tenor.com/search/the+super+mario+bros+movie-gifs">The Super Mario Bros Movie GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 🔭 Atualmente estou fazendo um estágio na área de suporte em TI no Senac-DF
 - 💻 ✏️ Estou cursando Análise e densenvolvimento de Sistema como graduação e já fiz um curso de Técnico de Informática onde comecei a aprender programação
 - 📚🌱 Estou aprendendo Java, C e C++ (esses dois ultimos para sistemas embarcados e arduínos), React
