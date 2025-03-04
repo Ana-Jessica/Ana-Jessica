@@ -1,7 +1,7 @@
 ## Olá 👋, eu me chamo Ana Jéssica
 ## Seja muito bem vindo ao meu perfil GitHub 😊
 
-[![Generate Snake Animation](https://github.com/Ana-Jessica/Ana-Jessica/actions/workflows/main.yml/badge.svg)](https://github.com/Ana-Jessica/Ana-Jessica/actions/workflows/main.yml)
+![Snake animation](https://github.com/Ana-Jessica/Ana-Jessica/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente estou fazendo um estágio na área de suporte em TI no Senac-DF
 - 💻 ✏️ Estou cursando Análise e densenvolvimento de Sistema como graduação e já fiz um curso de Técnico de Informática onde comecei a aprender programação
