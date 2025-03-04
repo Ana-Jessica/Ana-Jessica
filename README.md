@@ -1,7 +1,12 @@
-## Olá 👋, eu me chamo Ana Jéssica
-## Seja muito bem vindo ao meu perfil GitHub 😊
+ Olá 👋, eu me chamo Ana Jéssica
+ Seja muito bem vindo ao meu perfil GitHub 😊
 
-![Snake animation](https://github.com/Ana-Jessica/Ana-Jessica/blob/output/github-contribution-grid-snake.svg)
+#
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 - 🔭 Atualmente estou fazendo um estágio na área de suporte em TI no Senac-DF
 - 💻 ✏️ Estou cursando Análise e densenvolvimento de Sistema como graduação e já fiz um curso de Técnico de Informática onde comecei a aprender programação
