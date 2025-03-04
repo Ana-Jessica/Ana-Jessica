@@ -1,5 +1,5 @@
-# Olá 👋, eu me chamo Ana Jéssica
-# Seja muito bem vindo ao meu perfil GitHub 😊
+## Olá 👋, eu me chamo Ana Jéssica
+## Seja muito bem vindo ao meu perfil GitHub 😊
 
 #
 <picture align="center">
