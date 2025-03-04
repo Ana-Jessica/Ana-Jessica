@@ -13,10 +13,10 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout
 
       - name: Gerar animação da cobrinha
-        uses: Platane/snk@v3
+        uses: Platane/snk
         with:
           github_user_name: Ana-Jessica  # Substitua pelo seu usuário do GitHub
           outputs: |
@@ -24,7 +24,7 @@ jobs:
             github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Enviar resultado para a branch output
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages
         with:
           target_branch: output  # Salva na branch "output"
           build_dir: .  # Diretório onde o arquivo será salvo
