@@ -3,27 +3,30 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *" # Atualiza a cada 12 horas
-  workflow_dispatch:
+  push:
+    branches:
+      - main  # Executa quando há um push na branch main
 
 jobs:
   build:
-    name: Generate Snake Grid
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@master
-        id: snake
-        with:
-          github_user_name: Ana-Jessica
-          outputs: dist/github-contribution-grid-snake.svg
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
-      - uses: actions/upload-artifact@v3
+      - name: Gerar animação da cobrinha
+        uses: Platane/snk@v3
         with:
-          name: snake-artifact
-          path: dist/github-contribution-grid-snake.svg
+          github_user_name: Ana-Jessica  # Substitua pelo seu usuário do GitHub
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Enviar resultado para a branch output
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # Salva na branch "output"
+          build_dir: .  # Diretório onde o arquivo será salvo
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
