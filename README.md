@@ -1,8 +1,9 @@
-# Olá 👋, me chamo Ana Jéssica
-## Seja muito bem vindo ao meu prefil GitHub
+# Olá 👋, eu me chamo Ana Jéssica
+## Seja muito bem vindo ao meu perfil GitHub 	:octocat: 😊
 
-- 🔭 Atualmente estou fazendo um estágio na área de suporte em TI
-- 🌱 Estou aprendendo Java, C e C++ (esses dois ultimos para sistemas embarcados e arduínos), React
+- 🔭 Atualmente estou fazendo um estágio na área de suporte em TI no Senac-DF
+- 💻 ✏️ Estou cursando Análise e densenvolvimento de Sistema como graduação e já fiz um curso de Técnico de Informática onde comecei a aprender programação
+- 📚🌱 Estou aprendendo Java, C e C++ (esses dois ultimos para sistemas embarcados e arduínos), React
  e aprofundando mais PHP e algumas outras linguagens como Javascript, HTML, CSS e Python
 
 ## Ferramentas e Tecnologias:
@@ -13,5 +14,5 @@
 - 📫 Como entrar em contato comigo: pode me enviar uma mensagem pelo:
   #  linkedin "www.linkedin.com/in/ana-jéssica-23ar" ou
   #  email "anajessicaaraujoribeiro@gmail.com" Estou a disposição!!!
-- 😄 Pronomes: Ela/dela
-- ⚡ Curiosidade: Tenho paixão por tecnologias e programação, sempre que eu puder aprender coisas novas vou dar meu máximo.
+- 👤😄 Pronomes: Ela/dela
+- 🚀 Curiosidades: Tenho paixão por tecnologias e programação, sempre que eu puder aprender coisas novas vou dar meu máximo.📍🚩
