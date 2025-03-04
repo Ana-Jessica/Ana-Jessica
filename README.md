@@ -1,7 +1,7 @@
 ## Olá 👋, eu me chamo Ana Jéssica
 ## Seja muito bem vindo ao meu perfil GitHub 😊
 
-![Fist Bump Mario](https://tenor.com/view/fist-bump-mario-luigi-chris-pratt-the-super-mario-bros-movie-gif-5045737840408633319")
+![Snake animation](https://github.com/Ana-Jessica/Ana-Jessica/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente estou fazendo um estágio na área de suporte em TI no Senac-DF
 - 💻 ✏️ Estou cursando Análise e densenvolvimento de Sistema como graduação e já fiz um curso de Técnico de Informática onde comecei a aprender programação
