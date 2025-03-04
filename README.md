@@ -1,7 +1,7 @@
 # Olá 👋, eu me chamo Ana Jéssica
 ## Seja muito bem vindo ao meu perfil GitHub 😊
 
-<div class="tenor-gif-embed" data-postid="27203346" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/the-super-mario-bros-movie-trailer-mario-game-platform-gif-27203346">The Super Mario Bros Movie Trailer GIF</a>from <a href="https://tenor.com/search/the+super+mario+bros+movie-gifs">The Super Mario Bros Movie GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="5045737840408633319" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/fist-bump-mario-luigi-chris-pratt-the-super-mario-bros-movie-gif-5045737840408633319">Fist Bump Mario GIF</a>from <a href="https://tenor.com/search/fist+bump-gifs">Fist Bump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 Atualmente estou fazendo um estágio na área de suporte em TI no Senac-DF
 - 💻 ✏️ Estou cursando Análise e densenvolvimento de Sistema como graduação e já fiz um curso de Técnico de Informática onde comecei a aprender programação
